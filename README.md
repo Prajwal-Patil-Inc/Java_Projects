@@ -4,5 +4,5 @@
     * Front-end: HTML5, CSS3, JavaScript
     * Backend: Java Servlet, SQL
 2. RMS: Restaurant Management System, Diploma Final Project.
-        * Front-end: Java
-        * Back-end: Java
+    * Front-end: Java
+    * Back-end: Java
